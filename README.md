@@ -3,6 +3,7 @@
 ## Description
 
 EnergyTrade is a decentralized energy trading platform where energy volumes, prices, and consumption data remain encrypted. Producers and consumers can trade energy without revealing their exact consumption patterns or pricing strategies.
+Link: https://enegrytrade.vercel.app/
 
 ## Functionality
 
